@@ -9,11 +9,11 @@ Creo que será un proyecto interesante en el que voy a practicar todo lo que he 
 
 #### La planificacion de mi proyecto:
 
-*Hacer una maquetación del proyecto en papel, en fin un boceto.
-*Recoger las ideas que me van a proponer mis hermanos respecto al diseño.
-*Contar con la ideas de mis compañeros de clase y se fuese posible con mis profesores, en caso que tenga alguna duda.
-*Empezar a maquetar HTML, CSS.
-*Tener fotos de nuestra empresa, y optimizarlos.
-*Visitar paginas que me puedan ayudar para hacer repaso por ejemplo -www.w3schools.com-.
-*En esto voy a tener dificultades creo, que me gustría que la página tenga el cambio de idioma español, frances y se podría ser árabe esatría super bien.
+* Hacer una maquetación del proyecto en papel, en fin un boceto.
+* Recoger las ideas que me van a proponer mis hermanos respecto al diseño.
+* Contar con la ideas de mis compañeros de clase y se fuese posible con mis profesores, en caso que tenga alguna duda.
+* Empezar a maquetar HTML, CSS.
+* Tener fotos de nuestra empresa, y optimizarlos.
+* Visitar paginas que me puedan ayudar para hacer repaso por ejemplo -www.w3schools.com-.
+* En esto voy a tener dificultades creo, que me gustría que la página tenga el cambio de idioma español, frances y se podría ser árabe esatría super bien.
 #### Mi página de Facebook de la empresa 
