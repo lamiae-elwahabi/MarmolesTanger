@@ -16,4 +16,5 @@ Creo que será un proyecto interesante en el que voy a practicar todo lo que he 
 * Tener fotos de nuestra empresa, y optimizarlos.
 * Visitar paginas que me puedan ayudar para hacer repaso por ejemplo www.w3schools.com.
 * En esto voy a tener dificultades creo, que me gustría que la página tenga el cambio de idioma español, frances y se podría ser árabe esatría super bien.
+* Crear un logo tipo especifico para la empresa.
 #### Mi página de Facebook de la empresa 
