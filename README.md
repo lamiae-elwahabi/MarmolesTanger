@@ -8,6 +8,7 @@ También pensé en hacerlo con **Spring**, practicando el patrón de arquitectur
 Creo que será un proyecto interesante en el que voy a practicar todo lo que he aprendido, ya que hace años pensaba en hacer una pagina web para el proyecto familiar, pero la verdad que no tenía conocimientos para hacerlo.
 
 #### La planificacion de mi proyecto:
+(Estas cosas eran añadiendo a largo de hacer el proyecto)
 
 * Hacer una maquetación del proyecto en papel, en fin un boceto.
 * Recoger las ideas que me van a proponer mis hermanos respecto al diseño.
