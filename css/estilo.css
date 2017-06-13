@@ -1,0 +1,21 @@
+ 
+body {
+    background-image: url();
+	float:center;
+}
+.imagen {
+	text-align: center;
+	width: 700px;
+	height: 500px;
+}
+#cabecera {
+	
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	height: 25%;
+	background-color: #ECE0F8;	
+	margin: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: sans-serif ;
+}
