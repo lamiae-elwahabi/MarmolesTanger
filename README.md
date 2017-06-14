@@ -16,7 +16,7 @@ Creo que será un proyecto interesante en el que voy a practicar todo lo que he 
 * Empezar a maquetar HTML, CSS.
 * Tener fotos de nuestra empresa, y optimizarlos.
 * Visitar paginas que me puedan ayudar para hacer repaso por ejemplo www.w3schools.com.
-* En esto voy a tener dificultades creo, que me gustría que la página tenga el cambio de idioma español, frances y se podría ser árabe esatría super bien.
+* En esto voy a tener dificultades creo, que me gustría que la página tenga el cambio de idioma español, frances y se podría ser árabe esatría super bien (Mi compañero de clase Marc Galmes, me propuso dos propuestas: Hacer 3 paginas HTML en tres idiomas en este caso español, frances, árabe o hacerlo desde un servidor _su experiencia en la empresa_)
 * Crear un logo tipo especifico para la empresa.
 #### Mi página de Facebook de la empresa:
 ![facebook](https://user-images.githubusercontent.com/22870341/27061563-668a690a-4fe5-11e7-9318-8be09e1928b9.png)
